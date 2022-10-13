@@ -51,7 +51,7 @@ Date of finished:
 ![image](https://user-images.githubusercontent.com/87965299/194330146-4f021507-eb4f-4f96-92ff-e0a7a6b3e37a.png)
 
 12. Теперь для проверки работоспособности запускаем ping к виртуальной машине по заданному IP адресу. Пинг идёт - следовательно, все настройки выполнены корректно.
-![image](https://user-images.githubusercontent.com/87965299/194330173-8a054f3d-b831-4562-963e-b7f1aa765236.png)
+![image](https://user-images.githubusercontent.com/87965299/195593361-957c5415-1a67-4e9e-b109-10ad596f8cdc.png)
 
 13. В результате получаем связь по следующей схеме.
 ![image](https://user-images.githubusercontent.com/87965299/194330244-9b3d3869-7d0a-4e53-970e-fcb69634be3f.png)
