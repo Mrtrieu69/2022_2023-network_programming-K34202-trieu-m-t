@@ -45,7 +45,7 @@ Date of finished:
 ![image](https://user-images.githubusercontent.com/87965299/195594525-e7f6a2ad-fb82-40b9-b995-d75a59754e48.png)
 
 10. Переходим во вторую вкладку, там создаём Peer - указываем только что созданный интерфейс, указываем публичный ключ сервера, его публичный IP, указанный ранее порт и сеть адресов, по которым будет идти подключение.
-![image](https://user-images.githubusercontent.com/87965299/194329996-06ae7b5e-d0b4-47ad-bffd-d4d170be1eca.png)
+![image](https://user-images.githubusercontent.com/87965299/195594640-f44875a5-d671-4a25-9100-d526989e13e5.png)
 
 11. В настройке IP - Addresses указываем выбранную сеть и созданный интерфейс.
 ![image](https://user-images.githubusercontent.com/87965299/194330079-266e0da3-82d1-420c-b1ce-3c80690294a9.png)
