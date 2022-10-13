@@ -42,7 +42,7 @@ Date of finished:
 ![image](https://user-images.githubusercontent.com/87965299/195593722-2105b20a-3ae5-47fe-97cd-5b4ff7946c18.png)
 
 9. Заполняем строки: MTU оставляем как указано, ListenPort узнаём командой вывода файла /etc/wireguard/wg0.conf на сервере, ключи будут сгененрированы автоматически.
-![image](https://user-images.githubusercontent.com/87965299/194329752-f6ecd5e5-fd5d-44b9-877e-5ef3884ae3c6.png)
+![image](https://user-images.githubusercontent.com/87965299/195594525-e7f6a2ad-fb82-40b9-b995-d75a59754e48.png)
 
 10. Переходим во вторую вкладку, там создаём Peer - указываем только что созданный интерфейс, указываем публичный ключ сервера, его публичный IP, указанный ранее порт и сеть адресов, по которым будет идти подключение.
 ![image](https://user-images.githubusercontent.com/87965299/194329996-06ae7b5e-d0b4-47ad-bffd-d4d170be1eca.png)
