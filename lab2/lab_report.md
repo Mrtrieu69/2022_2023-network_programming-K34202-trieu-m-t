@@ -31,7 +31,7 @@ Date of finished:
 3. Была создана пара ключей на Ubuntu для удобной работой с Ansible, а также скопирован публичный ключ на компьютеры с RoutersOs
 ![image](https://user-images.githubusercontent.com/87965299/197200068-a8b0f9ab-e741-427d-843a-ae62353e5d7c.png)
 
-4. Был импортирован ключ на RouterOs командой "user ssh import public-key-file=chr.pub user=admin"
+4. Был импортирован ключ на RouterOs командой "user ssh import public-key-file=mykey.pub user=admin"
 ![image](https://user-images.githubusercontent.com/87965299/197200538-0d307f57-d605-40fa-8f67-64069fb1a5b8.png)
 
 
