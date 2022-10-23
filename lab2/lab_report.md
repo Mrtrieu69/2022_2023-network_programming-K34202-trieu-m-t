@@ -37,6 +37,7 @@ Date of finished:
 5. В файле hosts были добавлены 2 адресса RouterOs. Была проверена работа Ansible с помощью test.yml
 ![image](https://user-images.githubusercontent.com/87965299/197422252-6ef0480b-60c8-4a45-976c-95b44b8cadcd.png)
 ![image](https://user-images.githubusercontent.com/87965299/197206751-c383cc34-2384-47f2-81c3-6149e7ea5047.png)
+![image](https://user-images.githubusercontent.com/87965299/197422311-e2658c55-e4a4-46be-88c6-86a5057c6456.png)
 ![image](https://user-images.githubusercontent.com/87965299/197422271-53ee2ff7-765d-4179-8d15-2643a424ac5a.png)
 ![image](https://user-images.githubusercontent.com/87965299/197422281-4d885e0d-f612-4d5a-8af0-72eec4dd183c.png)
 
