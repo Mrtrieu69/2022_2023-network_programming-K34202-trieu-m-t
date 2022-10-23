@@ -68,6 +68,7 @@ Date of finished:
 ![image](https://user-images.githubusercontent.com/87965299/197422185-bee3d4ac-2a21-4418-9a6e-5316eb2f031e.png)
 
 11. Составлена схема сети получившейся сети в draw.io.
+![image](https://user-images.githubusercontent.com/87965299/197423014-01330d96-6fd7-4daa-8d5f-7290db9470aa.png)
 
 Вывод:
 В ходе выполнения лабораторной работы был создан еще один CHR. После чего удаленно были проведены различные настройки обоих CHR с помощью Ansible, установленного на удаленной ВМ, находящейся в YandexCloud.
