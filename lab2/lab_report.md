@@ -52,4 +52,10 @@ Date of finished:
 ![image](https://user-images.githubusercontent.com/87965299/197421569-126fbe93-2945-4e31-8780-a712be0e7584.png)
 
 8. Используя Ansible, настроен OSPF роутинг сразу на 2-х CHR.
+![image](https://user-images.githubusercontent.com/87965299/197421681-764887b5-e88a-4682-b6ed-a130f09959d9.png)
+![image](https://user-images.githubusercontent.com/87965299/197421640-ec66768a-dcdc-4ef5-8ac7-a1a980ad8a3a.png)
+![image](https://user-images.githubusercontent.com/87965299/197421653-c44e6490-4a3a-4e32-a96f-e9e74c9171ed.png)
+![image](https://user-images.githubusercontent.com/87965299/197421675-32c3db46-50f6-4b8c-974d-50d6a1d225e7.png)
+
+
 
