@@ -40,5 +40,16 @@ Date of finished:
 ![image](https://user-images.githubusercontent.com/87965299/197210337-f83e4817-c4c8-40c0-9685-0c8d9207174c.png)
 ![image](https://user-images.githubusercontent.com/87965299/197210279-7825110b-93ed-485a-a2d1-125521e2d879.png)
 
+6. Используя Ansible, настроены логин/пароль сразу на 2-х CHR.
+![image](https://user-images.githubusercontent.com/87965299/197421436-82cb6000-49cd-4584-ac04-ad14b948e118.png)
+![image](https://user-images.githubusercontent.com/87965299/197421502-4f7c99dd-f21c-4f0e-a81b-ef15cf6fbf62.png)
+![image](https://user-images.githubusercontent.com/87965299/197421510-cb0565eb-802b-451f-a74f-ec4ac06d64e3.png)
 
+7. Используя Ansible, настроены NTP-клиенты сразу на 2-х CHR.
+![image](https://user-images.githubusercontent.com/87965299/197421526-5e878784-9b5e-4a02-9122-7d4adc66be34.png)
+![image](https://user-images.githubusercontent.com/87965299/197421545-45f86203-b81a-45c5-9bd2-1a5663d8ef9d.png)
+![image](https://user-images.githubusercontent.com/87965299/197421557-f5f26945-87e0-4291-b768-2770ecdb25bb.png)
+![image](https://user-images.githubusercontent.com/87965299/197421569-126fbe93-2945-4e31-8780-a712be0e7584.png)
+
+8. Используя Ansible, настроен OSPF роутинг сразу на 2-х CHR.
 
