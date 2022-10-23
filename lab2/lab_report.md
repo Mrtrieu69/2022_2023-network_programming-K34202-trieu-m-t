@@ -57,5 +57,17 @@ Date of finished:
 ![image](https://user-images.githubusercontent.com/87965299/197421653-c44e6490-4a3a-4e32-a96f-e9e74c9171ed.png)
 ![image](https://user-images.githubusercontent.com/87965299/197421675-32c3db46-50f6-4b8c-974d-50d6a1d225e7.png)
 
+9. Используя Ansible, собраны данные по OSPF топологии и полный конфиг устройства сразу на 2-х CHR, после чего результаты сохранены в файлах r1.json и r2.json.
+![image](https://user-images.githubusercontent.com/87965299/197422058-aa582837-fb57-498d-9ee9-96f4975ef26f.png)
+![image](https://user-images.githubusercontent.com/87965299/197422049-68235e96-26ef-4302-a2c1-07f150950533.png)
+![image](https://user-images.githubusercontent.com/87965299/197422052-df224bbd-12ef-488a-9b7e-a37191ec01a9.png)
 
+10. Проведены проверки связности с помощью команды ping.
+![image](https://user-images.githubusercontent.com/87965299/197422175-2992e8fe-f312-4f1e-bf0e-d576a08115ad.png)
+![image](https://user-images.githubusercontent.com/87965299/197422185-bee3d4ac-2a21-4418-9a6e-5316eb2f031e.png)
+
+11. Составлена схема сети получившейся сети в draw.io.
+
+Вывод:
+В ходе выполнения лабораторной работы был создан еще один CHR. После чего удаленно были проведены различные настройки обоих CHR с помощью Ansible, установленного на удаленной ВМ, находящейся в YandexCloud.
 
