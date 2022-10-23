@@ -34,11 +34,11 @@ Date of finished:
 4. Был импортирован ключ на RouterOs командой "user ssh import public-key-file=mykey.pub user=admin"
 ![image](https://user-images.githubusercontent.com/87965299/197200538-0d307f57-d605-40fa-8f67-64069fb1a5b8.png)
 
-5. В файле hosts были добавлены 2 адресса RouterOs. Была проверена работа Ansible с помощью ping и test.yml
-![image](https://user-images.githubusercontent.com/87965299/197206847-e838bf03-304a-4a53-aca8-79cc96863934.png)
+5. В файле hosts были добавлены 2 адресса RouterOs. Была проверена работа Ansible с помощью test.yml
+![image](https://user-images.githubusercontent.com/87965299/197422252-6ef0480b-60c8-4a45-976c-95b44b8cadcd.png)
 ![image](https://user-images.githubusercontent.com/87965299/197206751-c383cc34-2384-47f2-81c3-6149e7ea5047.png)
-![image](https://user-images.githubusercontent.com/87965299/197210337-f83e4817-c4c8-40c0-9685-0c8d9207174c.png)
-![image](https://user-images.githubusercontent.com/87965299/197210279-7825110b-93ed-485a-a2d1-125521e2d879.png)
+![image](https://user-images.githubusercontent.com/87965299/197422271-53ee2ff7-765d-4179-8d15-2643a424ac5a.png)
+![image](https://user-images.githubusercontent.com/87965299/197422281-4d885e0d-f612-4d5a-8af0-72eec4dd183c.png)
 
 6. Используя Ansible, настроены логин/пароль сразу на 2-х CHR.
 ![image](https://user-images.githubusercontent.com/87965299/197421436-82cb6000-49cd-4584-ac04-ad14b948e118.png)
