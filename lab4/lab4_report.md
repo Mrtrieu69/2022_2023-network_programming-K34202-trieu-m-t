@@ -30,7 +30,7 @@ Date of create: 21.11.2022
 5. Отредактирован файл basic.p4 для правильной кофигурации сети.
   
   5.1 Добавлен парсинг ethernet и ipv4 headers.
-  ![image](https://user-images.githubusercontent.com/87965299/204164465-d5483c16-4aac-4040-bec4-9c3aa4e53351.png)
+  ![image](https://user-images.githubusercontent.com/87965299/204165123-84216694-9a66-4527-8b49-b2c2131820e5.png)
   
   5.2 Добавлена логика пеерсылки ipv4 пакетов.
   ![image](https://user-images.githubusercontent.com/87965299/204164468-bc5090e6-ac62-4971-bcd3-01f1461f65d7.png)
