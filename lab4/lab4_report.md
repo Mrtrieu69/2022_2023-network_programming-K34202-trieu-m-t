@@ -30,16 +30,16 @@ Date of create: 21.11.2022
 5. Отредактирован файл basic.p4 для правильной кофигурации сети.
   
   5.1 Добавлен парсинг ethernet и ipv4 headers.
-  ![image](https://user-images.githubusercontent.com/87965299/204162145-50dcf339-b1f8-4be4-ab38-acb89b019894.png)
+  ![image](https://user-images.githubusercontent.com/87965299/204164465-d5483c16-4aac-4040-bec4-9c3aa4e53351.png)
   
   5.2 Добавлена логика пеерсылки ipv4 пакетов.
-  ![image](https://user-images.githubusercontent.com/87965299/204162170-e66ad688-1949-41b1-bde2-e0b8c745a787.png)
+  ![image](https://user-images.githubusercontent.com/87965299/204164468-bc5090e6-ac62-4971-bcd3-01f1461f65d7.png)
   
   5.3 Добавлена валидация пакетов.
-  ![image](https://user-images.githubusercontent.com/87965299/204162194-db02a0b6-23d8-4811-ad26-580a97f40d54.png)
+  ![image](https://user-images.githubusercontent.com/87965299/204164474-7b0fb372-2bad-4551-8f2a-ea8f5a820ae2.png)
   
   5.4 Добавлен депарсинг ethernet и ipv4 headers.
-  ![image](https://user-images.githubusercontent.com/87965299/204162230-a50b01d9-111f-4287-8d90-aa32bad0306c.png)
+  ![image](https://user-images.githubusercontent.com/87965299/204164477-9be5bfe7-715f-4f40-a962-9ec8af3fc225.png)
 
 6. Заново сконфигурирована сеть с помошью Makefile и исправленного basic.p4, проверена связь хостов через Ping и Pingall.
 ![image](https://user-images.githubusercontent.com/87965299/204162257-affd17b0-72a3-4438-8f7e-adb039c1d8cc.png)
