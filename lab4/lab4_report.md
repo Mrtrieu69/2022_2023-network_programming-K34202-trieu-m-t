@@ -49,3 +49,10 @@ Date of create: 21.11.2022
 
 8. Отредактирован файл basic_tunnel.p4 для правильной кофигурации сети "Basic Tunneling".
 
+  8.1 Добавлен парсинг myTunnel headers.
+
+  8.2 Добавлена логика пересылки myTunnel пакетов, таблица myTunnel_exact для связи логики пересылки и header dst_id и валидация пактов с учетом myTunnel header.
+
+  8.3 Добавлен депарсинг myTunnel headers.
+
+9. Заново сконфигурирована сеть с помошью Makefile и исправленного basic_tunnel.p4, проверена связь хостов через Ping и Pingall.
