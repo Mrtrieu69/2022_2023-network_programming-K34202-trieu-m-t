@@ -47,4 +47,5 @@ Date of create: 21.11.2022
 7. Полученная схема сети.
 ![image](https://user-images.githubusercontent.com/87965299/204162340-9cf664a1-1e66-41a3-9058-5589c283120e.png)
 
+8. Отредактирован файл basic_tunnel.p4 для правильной кофигурации сети "Basic Tunneling".
 
