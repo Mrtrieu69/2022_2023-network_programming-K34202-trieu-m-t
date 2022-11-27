@@ -28,12 +28,16 @@ Date of create: 21.11.2022
 ![image](https://user-images.githubusercontent.com/87965299/204161709-759d9310-1d12-4a1c-94d7-87fa2bf7a84e.png)
 
 5. Отредактирован файл basic.p4 для правильной кофигурации сети.
+  
   5.1 Добавлен парсинг ethernet и ipv4 headers.
   ![image](https://user-images.githubusercontent.com/87965299/204162145-50dcf339-b1f8-4be4-ab38-acb89b019894.png)
+  
   5.2 Добавлена логика пеерсылки ipv4 пакетов.
   ![image](https://user-images.githubusercontent.com/87965299/204162170-e66ad688-1949-41b1-bde2-e0b8c745a787.png)
+  
   5.3 Добавлена валидация пакетов.
   ![image](https://user-images.githubusercontent.com/87965299/204162194-db02a0b6-23d8-4811-ad26-580a97f40d54.png)
+  
   5.4 Добавлен депарсинг ethernet и ipv4 headers.
   ![image](https://user-images.githubusercontent.com/87965299/204162230-a50b01d9-111f-4287-8d90-aa32bad0306c.png)
 
