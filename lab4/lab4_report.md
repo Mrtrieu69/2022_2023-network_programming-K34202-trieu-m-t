@@ -50,9 +50,24 @@ Date of create: 21.11.2022
 8. Отредактирован файл basic_tunnel.p4 для правильной кофигурации сети "Basic Tunneling".
 
   8.1 Добавлен парсинг myTunnel headers.
+  ![image](https://user-images.githubusercontent.com/87965299/204164645-8e221c0c-2f85-4c21-8b85-231fd24f01ae.png)
 
   8.2 Добавлена логика пересылки myTunnel пакетов, таблица myTunnel_exact для связи логики пересылки и header dst_id и валидация пактов с учетом myTunnel header.
+  ![image](https://user-images.githubusercontent.com/87965299/204164820-58523d6a-6cf6-4238-97de-63927ccaa9d7.png)
 
   8.3 Добавлен депарсинг myTunnel headers.
+  ![image](https://user-images.githubusercontent.com/87965299/204164848-0b801a81-3886-419a-a2cd-30d18dddb29a.png)
 
 9. Заново сконфигурирована сеть с помошью Makefile и исправленного basic_tunnel.p4, проверена связь хостов через Ping и Pingall.
+![image](https://user-images.githubusercontent.com/87965299/204164871-7f056ccc-8eda-4c8b-b1d5-e052f6095eff.png)
+
+10. Проверена работа сети через программы receive.py и send.py хостов, а также работа туннелирования, используя параметр dst_id.
+![image](https://user-images.githubusercontent.com/87965299/204164953-1d246de3-821f-4120-be46-457afb15c96f.png)
+![image](https://user-images.githubusercontent.com/87965299/204164977-8a3e6766-de3c-4a64-bb22-efd75f709b72.png)
+![image](https://user-images.githubusercontent.com/87965299/204164993-f2757a5c-11f6-447b-9806-9628c1534a3f.png)
+
+11. Полученная схема сети
+![image](https://user-images.githubusercontent.com/87965299/204165022-d213509f-5405-43b4-9297-8932661ccbd9.png)
+
+Вывод:
+В ходе выполнения лабораторной работы была создана виртуальная машина для работы с P4. После чего был зучен синтаксис языка программирования P4 и выполнены 2 задания обучающих задания от Open network foundation для ознакомления на практике с P4.
